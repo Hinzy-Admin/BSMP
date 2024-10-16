@@ -1,0 +1,16 @@
+{
+  "$schema": "file:///C:/nebula/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "bsmp (Minecraft 1.20.1)",
+    "description": "bsmp Running Minecraft 1.20.1 (Fabric v0.16.5)",
+    "icon": "https://raw.githubusercontent.com/Hinzy-Admin/BSMP/refs/heads/main/Assets/servericon.png",
+    "address": "bsmp.hinzy.live",
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.16.5"
+  },
+  "untrackedFiles": []
+}
