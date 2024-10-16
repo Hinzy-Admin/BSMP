@@ -1,0 +1,56 @@
+type = user_variables
+
+variable {
+  name = emojis
+  value = 0
+  reset_on_launch = false
+}
+
+variable {
+  name = nick
+  value = 
+  reset_on_launch = false
+}
+
+variable {
+  name = orlando
+  value = 104
+  reset_on_launch = false
+}
+
+variable {
+  name = text
+  value = Copy
+  reset_on_launch = false
+}
+
+variable {
+  name = menu
+  value = 3
+  reset_on_launch = false
+}
+
+variable {
+  name = cool_variable_name
+  value = 6
+  reset_on_launch = false
+}
+
+variable {
+  name = prn
+  value = 1
+  reset_on_launch = false
+}
+
+variable {
+  name = splash
+  value = 0
+  reset_on_launch = false
+}
+
+variable {
+  name = prntext
+  value = If its not working try changing lowercase/uppercase
+  reset_on_launch = false
+}
+
